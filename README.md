@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi World 👋 I'm German Kern!
 
-<!--
-**germankern/germankern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a Frontend Developer from Argentina. I spend a lot of time researching and learning new things.
+I'm passionate about programming. I would like to have my first formal work experience to grow in the IT world and test my limits.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ I'm always working on:
+
+  - Improving my skills and seeking my personal growth. ⌨️ ⚖️
+
+- 🧘 Hobbies:
+
+  - Play ping pong with friends. 🏓
+  - Swimming is something that relaxes me the most. 🏊
+  - Ride a bike around the city. 🚴🏻🚴
+
+- 🌱 I’m currently learning:
+
+  - React Js.
+   
+- 📫 How to reach me:
+
+  - e-mail: germankern890@gmial.com
+  - Limledin: proximamente
+  
+
