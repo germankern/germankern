@@ -1,8 +1,6 @@
 ### Hi World 👋 I'm German Kern!
 
-#### Skill Set:
-
-Skill set:
+## Skill Set:
 
 
 I'm a Frontend Developer from Argentina. I spend a lot of time researching and learning new things.
