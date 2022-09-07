@@ -1,7 +1,8 @@
-### Hi World 👋 I'm German Kern!
+## Hi World 👋 I'm German Kern!
 
-## Skill Set:
+### Skill Set:
 
+#### HTML5  CSS3  SASS  Git&GitHub  JS  REACT
 
 I'm a Frontend Developer from Argentina. I spend a lot of time researching and learning new things.
 I'm passionate about programming. I would like to have my first formal work experience to grow in the IT world and test my limits.
