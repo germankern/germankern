@@ -25,6 +25,6 @@ I'm passionate about programming. I would like to have my first formal work expe
 - 📫 How to reach me:
 
   - e-mail: germankern890@gmial.com
-  - Limledin: proximamente
+  - LinKedin: coming soon...
   
 
