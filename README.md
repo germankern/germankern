@@ -19,7 +19,7 @@ I'm passionate about programming. I would like to have my first formal work expe
 
 - 🌱 I’m currently learning:
 
-  - React Js.
+  - React Native.
   - English.
    
 - 📫 How to reach me:
