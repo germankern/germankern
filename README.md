@@ -3,24 +3,12 @@
 ### const skillSet =
 #### ['HTML5',	'CSS3',	'SASS',	'Git&GitHub',	'JavaScript',	'React', 'TypeScript', 'ReactNative'];
 
-I'm a Frontend Developer from Argentina. I spend a lot of time researching and learning new things.
-I'm passionate about programming. I would like to have my first formal work experience to grow in the IT world and test my limits.
+Soy desarrollador frontend de Argentina. Me apasiona la programación, paso mucho tiempo investigando y aprendiendo tecnologías nuevas.
+Me considero una persona resolutiva, empática, comunicativa y responsable.
 
+Me gustaría seguir ganando experiencia en el mundo IT, formando parte de proyectos que me desafíen a superar mis límites y crecer profesionalmente.
 
-- 🖥️ I'm always working on:
-
-  - Improving my skills and seeking my personal growth. ⌨️ ⚖️
-
-- 🧘 Hobbies:
-
-  - Play ping pong with friends. 🏓
-  - Swimming is something that relaxes me the most. 🏊
-  - Ride a bike around the city. 🚴🏻🚴
-
-- 🌱 I’m currently learning:
-
-  - React Native.
-  - English.
+Estas son mis habilidades técnicas mas fuertes = ['HTML5', 'CSS', 'SASS', 'Git&GitHub', 'JavaScript', 'React', 'TypeScript', 'ReactNative'];
    
 - 📫 How to reach me:
 
