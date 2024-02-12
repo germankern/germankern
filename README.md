@@ -1,4 +1,4 @@
-## Hola Mundo 👋 My nombre es German Kern!
+## Hola Mundo 👋 Mi nombre es German Kern!
 
 Soy desarrollador frontend de Argentina. Me apasiona la programación, paso mucho tiempo investigando y aprendiendo tecnologías nuevas.
 Me considero una persona resolutiva, empática, comunicativa y responsable.
