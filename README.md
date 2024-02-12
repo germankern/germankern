@@ -10,6 +10,6 @@ Estas son mis habilidades técnicas mas fuertes = ['HTML5', 'CSS', 'SASS', 'Git&
 - 📫 Contáctame:
 
   - e-mail: germankern890@gmial.com
-  - LinKedin: https://www.linkedin.com/in/germ%C3%A1n-kern-810830252/
+  - LinKedin: https://www.linkedin.com/in/germankern/
   
 
