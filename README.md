@@ -1,8 +1,5 @@
 ## Hi World 👋 I'm German Kern!
 
-### const skillSet =
-#### ['HTML5',	'CSS3',	'SASS',	'Git&GitHub',	'JavaScript',	'React', 'TypeScript', 'ReactNative'];
-
 Soy desarrollador frontend de Argentina. Me apasiona la programación, paso mucho tiempo investigando y aprendiendo tecnologías nuevas.
 Me considero una persona resolutiva, empática, comunicativa y responsable.
 
